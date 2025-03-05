@@ -20,3 +20,4 @@ Invoicing & Payments
     'application': True,
     'license': 'LGPL-3',
 }
+m1
